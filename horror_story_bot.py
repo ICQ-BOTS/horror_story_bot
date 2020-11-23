@@ -22,7 +22,7 @@ log = logging.getLogger(__name__)
 loop = asyncio.get_event_loop()
 
 NAME = "horror_story"
-TOKEN = "001.2918970001.1540231839:753423284"
+TOKEN = "***.**********.**********:*********"
 
 
 bot = Bot(
