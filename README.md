@@ -4,9 +4,9 @@
 <a href="https://icq.im/boo_bot"><img src="https://github.com/ICQ-BOTS/horror_story_bot/blob/main/horror_story.png" width="100" height="100"></a>
 
 # Оглавление 
- - [Описание](https://github.com/ICQ-BOTS/boo_bot#описание)
- - [Установка](https://github.com/ICQ-BOTS/boo_bot#установка)
- - [Скриншоты работы](https://github.com/ICQ-BOTS/boo_bot#скриншоты-работы)
+ - [Описание](https://github.com/ICQ-BOTS/horror_story_bot#описание)
+ - [Установка](https://github.com/ICQ-BOTS/horror_story_bot#установка)
+ - [Скриншоты работы](https://github.com/ICQ-BOTS/horror_story_bot#скриншоты-работы)
 
 # Описание
 Рассказывает страшные истории. <br> BOO! 👻
@@ -37,5 +37,5 @@ python3 horror_story_bot.py
 ```
 
 # Скриншоты работы
-<img src="https://github.com/ICQ-BOTS/boo_bot/blob/main/img/1.png" width="400">
-<img src="https://github.com/ICQ-BOTS/boo_bot/blob/main/img/2.png" width="400">
+<img src="https://github.com/ICQ-BOTS/horror_story_bot/blob/main/img/1.png" width="400">
+<img src="https://github.com/ICQ-BOTS/horror_story_bot/blob/main/img/2.png" width="400">
